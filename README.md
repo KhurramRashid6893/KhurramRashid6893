@@ -74,18 +74,20 @@
 
 ## 🔗 Live Projects
 
-[![Fun Fact Generator](https://img.shields.io/badge/-Fun_Fact_Generator-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://fun-fact.onrender.com)
-[![Facts Fun](https://img.shields.io/badge/-Facts_Fun-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://facts-fun.onrender.com)
-[![General Knowledge Quiz](https://img.shields.io/badge/-Test_Your_Knowledge-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://testyour-general-knowledeg.onrender.com)
-[![Subsidy Awareness App](https://img.shields.io/badge/-Subsidy_Awareness_App-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://one-subsidy-awareness-app.onrender.com)
-[![Excess Food Sharing](https://img.shields.io/badge/-Excess_Food_Sharing-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://two-excess-food-sharing-platform.onrender.com)
-[![GoodHealthHub](https://img.shields.io/badge/-GoodHealthHub-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://three-goodhealthhub.onrender.com)
-[![LearningVersity](https://img.shields.io/badge/-LearningVersity-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://four-learningversity.onrender.com)
-[![Sentiment Analysis App](https://img.shields.io/badge/-Sentiment_Analysis_App-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://sentiment-analysis-sfex.onrender.com)
-[![DesiGauTech](https://img.shields.io/badge/-DesiGauTech-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://desigautech.onrender.com)
-[![EmpowHer Web App](https://img.shields.io/badge/-EmpowHer_App-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://five-empowher.onrender.com)
-[![SOS-NXTM](https://img.shields.io/badge/-SOS_NXTM_Emergency_App-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://sos-nxtm.onrender.com)
-[![Rock Paper Scissors Game](https://img.shields.io/badge/-Rock_Paper_Scissors_Game-0d1117?style=for-the-badge&logo=render&logoColor=white)](https://rock-paper-scissors-game-webapp.onrender.com)
+## 🔗 Live Projects
+
+[![Fun Fact Generator](https://img.shields.io/badge/-Fun_Fact_Generator-blue?style=for-the-badge&logo=render&logoColor=white)](https://fun-fact.onrender.com)
+[![Facts Fun](https://img.shields.io/badge/-Facts_Fun-purple?style=for-the-badge&logo=render&logoColor=white)](https://facts-fun.onrender.com)
+[![General Knowledge Quiz](https://img.shields.io/badge/-General_Knowledge_Quiz-orange?style=for-the-badge&logo=render&logoColor=white)](https://testyour-general-knowledeg.onrender.com)
+[![Subsidy Awareness App](https://img.shields.io/badge/-Subsidy_Awareness_App-green?style=for-the-badge&logo=render&logoColor=white)](https://one-subsidy-awareness-app.onrender.com)
+[![Excess Food Sharing](https://img.shields.io/badge/-Food_Sharing_Platform-yellow?style=for-the-badge&logo=render&logoColor=black)](https://two-excess-food-sharing-platform.onrender.com)
+[![GoodHealthHub](https://img.shields.io/badge/-GoodHealthHub-red?style=for-the-badge&logo=render&logoColor=white)](https://three-goodhealthhub.onrender.com)
+[![LearningVersity](https://img.shields.io/badge/-LearningVersity-teal?style=for-the-badge&logo=render&logoColor=white)](https://four-learningversity.onrender.com)
+[![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-pink?style=for-the-badge&logo=render&logoColor=white)](https://sentiment-analysis-sfex.onrender.com)
+[![DesiGauTech](https://img.shields.io/badge/-DesiGauTech-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://desigautech.onrender.com)
+[![EmpowHer App](https://img.shields.io/badge/-EmpowHer_App-maroon?style=for-the-badge&logo=render&logoColor=white)](https://five-empowher.onrender.com)
+[![SOS NXTM](https://img.shields.io/badge/-SOS_NXTM-grey?style=for-the-badge&logo=render&logoColor=white)](https://sos-nxtm.onrender.com)
+[![Rock Paper Scissors](https://img.shields.io/badge/-Rock_Paper_Scissors_Game-cyan?style=for-the-badge&logo=render&logoColor=black)](https://rock-paper-scissors-game-webapp.onrender.com)
 
 ---
 
