@@ -74,55 +74,19 @@
 
 ## 🔗 Live Projects
 
-<h2>🔗 Live Projects</h2>
+[![Fun Fact Generator](https://img.shields.io/badge/-Fun_Fact_Generator-blue?style=for-the-badge&logo=render&logoColor=white)](https://fun-fact.onrender.com)
+[![Facts Fun](https://img.shields.io/badge/-Facts_Fun-purple?style=for-the-badge&logo=render&logoColor=white)](https://facts-fun.onrender.com)
+[![General Knowledge Quiz](https://img.shields.io/badge/-General_Knowledge_Quiz-orange?style=for-the-badge&logo=render&logoColor=white)](https://testyour-general-knowledeg.onrender.com)
+[![Subsidy Awareness App](https://img.shields.io/badge/-Subsidy_Awareness_App-green?style=for-the-badge&logo=render&logoColor=white)](https://one-subsidy-awareness-app.onrender.com)
+[![Excess Food Sharing](https://img.shields.io/badge/-Food_Sharing_Platform-yellow?style=for-the-badge&logo=render&logoColor=black)](https://two-excess-food-sharing-platform.onrender.com)
+[![GoodHealthHub](https://img.shields.io/badge/-GoodHealthHub-red?style=for-the-badge&logo=render&logoColor=white)](https://three-goodhealthhub.onrender.com)
+[![LearningVersity](https://img.shields.io/badge/-LearningVersity-teal?style=for-the-badge&logo=render&logoColor=white)](https://four-learningversity.onrender.com)
+[![Sentiment Analysis](https://img.shields.io/badge/-Sentiment_Analysis-pink?style=for-the-badge&logo=render&logoColor=white)](https://sentiment-analysis-sfex.onrender.com)
+[![DesiGauTech](https://img.shields.io/badge/-DesiGauTech-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://desigautech.onrender.com)
+[![EmpowHer App](https://img.shields.io/badge/-EmpowHer_App-maroon?style=for-the-badge&logo=render&logoColor=white)](https://five-empowher.onrender.com)
+[![SOS NXTM](https://img.shields.io/badge/-SOS_NXTM-grey?style=for-the-badge&logo=render&logoColor=white)](https://sos-nxtm.onrender.com)
+[![Rock Paper Scissors](https://img.shields.io/badge/-Rock_Paper_Scissors_Game-cyan?style=for-the-badge&logo=render&logoColor=black)](https://rock-paper-scissors-game-webapp.onrender.com)
 
-<a href="https://fun-fact.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Fun_Fact_Generator-blue?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://facts-fun.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Facts_Fun-purple?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://testyour-general-knowledeg.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-General_Knowledge_Quiz-orange?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://one-subsidy-awareness-app.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Subsidy_Awareness_App-green?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://two-excess-food-sharing-platform.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Food_Sharing_Platform-yellow?style=for-the-badge&logo=render&logoColor=black" />
-</a>
-
-<a href="https://three-goodhealthhub.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-GoodHealthHub-red?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://four-learningversity.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-LearningVersity-teal?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://sentiment-analysis-sfex.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Sentiment_Analysis-pink?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://desigautech.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-DesiGauTech-darkgreen?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://five-empowher.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-EmpowHer_App-maroon?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://sos-nxtm.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-SOS_NXTM-grey?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-
-<a href="https://rock-paper-scissors-game-webapp.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Rock_Paper_Scissors_Game-cyan?style=for-the-badge&logo=render&logoColor=black" />
-</a>
 
 ---
 
