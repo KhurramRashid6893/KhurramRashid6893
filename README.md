@@ -110,6 +110,7 @@
 [![GitHub](https://img.shields.io/badge/-Portfolio-24292e?logo=github&logoColor=white)](https://github.com/KhurramRashid6893)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white)](https://twitter.com/khurramrashidd)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/khurramrashid_)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khurramrashid)
 
 
 ---
