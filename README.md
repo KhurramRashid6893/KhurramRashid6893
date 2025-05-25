@@ -134,3 +134,4 @@
 ---
 
 > “Thriving on challenges, I build impactful tech for good, one line of code at a time.”
+> > “Playing With Technology.”
