@@ -60,6 +60,14 @@
 
 ---
 
+## 🌟 My GitHub Contribution Calendar in 3D
+
+<p align="center">
+  <img src="images/github_3d_contributions.png" alt="3D GitHub Contribution Calendar"/>
+</p>
+
+---
+
 ## 🏗️ Notable Projects
 
 - 🎮 **Realtime Rock-Paper-Scissors Game** (Python, OpenCV, MediaPipe)
@@ -86,7 +94,6 @@
 [![EmpowHer App](https://img.shields.io/badge/-EmpowHer_App-maroon?style=for-the-badge&logo=render&logoColor=white)](https://five-empowher.onrender.com)
 [![SOS NXTM](https://img.shields.io/badge/-SOS_NXTM-grey?style=for-the-badge&logo=render&logoColor=white)](https://sos-nxtm.onrender.com)
 [![Rock Paper Scissors](https://img.shields.io/badge/-Rock_Paper_Scissors_Game-cyan?style=for-the-badge&logo=render&logoColor=black)](https://rock-paper-scissors-game-webapp.onrender.com)
-
 
 ---
 
@@ -129,7 +136,6 @@
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white)](https://twitter.com/khurramrashidd)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/khurramrashid_)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khurramrashid)
-
 
 ---
 
