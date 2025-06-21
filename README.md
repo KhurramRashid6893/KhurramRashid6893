@@ -94,7 +94,7 @@
 [![EmpowHer App](https://img.shields.io/badge/-EmpowHer_App-maroon?style=for-the-badge&logo=render&logoColor=white)](https://five-empowher.onrender.com)
 [![SOS NXTM](https://img.shields.io/badge/-SOS_NXTM-grey?style=for-the-badge&logo=render&logoColor=white)](https://sos-nxtm.onrender.com)
 [![Rock Paper Scissors](https://img.shields.io/badge/-Rock_Paper_Scissors_Game-cyan?style=for-the-badge&logo=render&logoColor=black)](https://rock-paper-scissors-game-webapp.onrender.com)
-[![DesiGauTech](https://img.shields.io/badge/-DesiGauTech-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://two-mern-todoapp.onrender.com)
+[![Todo List App](https://img.shields.io/badge/-TodoMaster-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://two-mern-todoapp.onrender.com)
 
 ---
 
