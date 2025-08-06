@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khurram Rashid</h1> 
-<p align="center">
+<p align="center"> 
   <b>B.Tech CSE @ Amity University, Mumbai | Full Stack, AI/ML, Cybersecurity, IoT & SDG-Focused Developer</b>
 </p>
 
