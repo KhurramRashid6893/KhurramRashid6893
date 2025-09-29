@@ -61,7 +61,6 @@
 
 ---
 
-
 ## 🏗️ Notable Projects
 
 - 🎮 **Realtime Rock-Paper-Scissors Game** (Python, OpenCV, MediaPipe)
@@ -94,12 +93,14 @@
 
 ## 📚 Research Work
 
-- 📄 *Emotion AI in the Digital Era*
-- 🛰 *5G & IoT in Smart Apps*
-- 🌱 *Deep Learning for Carbon Monitoring*
-- 🗞 *NLP for Misinformation*
-- 🎨 *Ghibli Art in the Age of AI*
-- 🧠 *ML in Data Classification*
+- 📄 *Implementing Machine Learning in Data Classification*  
+- 🌱 *Deep Learning in Monitoring and Managing Industrial Carbon Emissions*  
+- 🛰 *5G-Enabled IoT: Accelerating Connectivity and Smart Applications*  
+- 🧠 *Artificial Intelligence and Emotional Intelligence: The Emergence of Emotion AI in the Digital Era*  
+- 🗞 *Natural Language Processing (NLP) for Combating Misinformation in Digital Media*  
+- 🎨 *Ghibli Art in the Age of AI: A New Paradigm in Animation and Digital Imagery*  
+- ⚡ *Energy Debt of Artificial Intelligence: Measuring and Mitigating the Hidden Carbon Footprint of Large-Scale AI Models*  
+- 🔋 *Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030* 🏆 *(Best Paper Award)*  
 
 ---
 
@@ -134,5 +135,5 @@
 
 ---
 
-> “Thriving on challenges, I build impactful tech for good, one line of code at a time.”
+> “Thriving on challenges, I build impactful tech for good, one line of code at a time.”  
 > > “Playing With Technology.”
