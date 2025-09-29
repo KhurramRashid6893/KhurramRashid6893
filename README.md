@@ -104,6 +104,19 @@
 
 ---
 
+## 💡 Hackathons & Ideathons
+
+- 🚀 **Bhartiya Antariksh Hackathon**  
+- 🌌 **Hackcelestial 2.0**  
+- 🌐 **Google Developer Groups (On Campus) – Solution Challenge**  
+- 🕶 **REALMS XR Hackathon**  
+- 🤖 **AI for Impact APAC Hackathon**  
+- 🪐 **Mission Mars Hackathon**  
+- 🏫 **Discovery School Super League** *(During School Years)*  
+- 💡 **CSI Ideathon**  
+
+---
+
 ## 🌱 Learning & Building
 
 - 🧠 Advanced AI for sustainability & carbon analytics
