@@ -109,7 +109,10 @@
 - 🚀 **Bhartiya Antariksh Hackathon**  
 - 🌌 **Hackcelestial 2.0**  
 - 🌐 **Google Developer Groups (On Campus) – Solution Challenge**  
-- 🕶 **REALMS XR Hackathon**  
+- 🕶 **REALMS XR Hackathon**
+- 🔬 **Prakalp**  
+- ⚡ **Technovate**  
+- 🏆 **HackPrix Season 2**  
 - 🤖 **AI for Impact APAC Hackathon**  
 - 🪐 **Mission Mars Hackathon**  
 - 🏫 **Discovery School Super League** *(During School Years)*  
