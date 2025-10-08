@@ -110,13 +110,14 @@
 
 ## 💡 Hackathons & Ideathons
 
-- 🚀 **Bhartiya Antariksh Hackathon**  
-- 🌌 **Hackcelestial 2.0**  
-- 🌐 **Google Developer Groups (On Campus) – Solution Challenge**  
+- 🛰️ **NASA International Space Apps Challenge 2025**
+- 🚀 **Bhartiya Antariksh Hackathon 2025**  
+- 🌌 **Hackcelestial 2.0 (2025)**  
+- 🌐 **Google Developer Groups (On Campus) – Solution Challenge (2025)**  
 - 🕶 **REALMS XR Hackathon**
 - 🔬 **Prakalp**  
 - ⚡ **Technovate**  
-- 🏆 **HackPrix Season 2**  
+- 🏆 **HackPrix Season 2 (2025)**  
 - 🤖 **AI for Impact APAC Hackathon**  
 - 🪐 **Mission Mars Hackathon**  
 - 🏫 **Discovery School Super League** *(During School Years)*  
