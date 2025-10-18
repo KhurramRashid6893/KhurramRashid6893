@@ -1,58 +1,68 @@
 <!-- ====== Start of README: Enhanced (Same Structure) ====== -->
-- 🔒 Cybersecurity attacks & encryption models
-- 🌐 Full-stack MERN + GraphQL dev
-- 📡 IoT platforms & SDG monitoring
-
-
----
-
-
-## 🏆 Workshops Attended
-
-
-- IIT Bombay (AI/ML)
-- IIT Delhi (Gen AI)
-- IIT Madras (DL/ML)
-- IISc Bengaluru (Cybersecurity)
-- IIT Hyderabad (Web Dev)
-- IIT Goa (Cancer Biology)
-
-
----
-
-
-## 📬 Connect with Me
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khurram-rashid/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:khurramrashid0786@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Portfolio-24292e?logo=github&logoColor=white)](https://github.com/KhurramRashid6893)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white)](https://twitter.com/khurramrashidd)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/khurramrashid_)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khurramrashid)
-
-
----
-
-
-> “Thriving on challenges, I build impactful tech for good, one line of code at a time.”
->
-> “Playing With Technology.”
-
-
----
-
-
-<!-- Live extras added -->
 
 
 <p align="center">
-<!-- Visitor Counter (simple) -->
-<img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&style=flat-square&color=blue" alt="Profile views" />
-<!-- "Now working on" dynamic typing is already at top; add a small project ticker -->
-&nbsp;&nbsp;
-<img src="https://badges.pufler.dev/visits/KhurramRashid6893" alt="profile visits" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B,+I'm+Khurram+Rashid;B.Tech+CSE+%40+Amity+University,+Mumbai;Founder+%26+CEO+@+Ibtidaa+Tech&center=true&width=760&height=80" alt="Typing SVG" />
 </p>
 
 
+<h1 align="center">Hi 👋, I'm Khurram Rashid</h1>
+<p align="center">
+<b>
+B.Tech CSE @ Amity University, Mumbai |
+Founder & CEO @ <a href="https://ibtidaatech.com/" target="_blank">Ibtidaa Tech</a> |
+Full Stack, AI/ML Expert | Data Analyst | Researcher | Cybersecurity, IoT & SDG-Focused Developer
+</b>
+</p>
+
+
+---
+
+
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" />
+
+
+## 🚀 About Me
+
+
+- 🎓 B.Tech CSE student at Amity University, Mumbai (2023–2027)
+- 🌐 **Google Student Ambassador**
+- 🌐 On-Campus Lead at **Google Developer Groups (GDG)** (2024-25)
+- 🏅 Certified: AI/ML Expert | Data Analyst | Python | Cybersecurity | IoT | Front-End Dev | Digital Marketing with AI
+- 📚 110+ Projects: AI/ML, Cybersecurity tools, IoT systems, WebApps, Streamlit & Flask-based applications
+- 🧠 Research:
+- Data Classification using ML
+- Carbon Emission Monitoring with DL
+- 5G-enabled IoT Apps
+- Emotion AI
+- NLP for Misinformation
+- AI in Ghibli-Inspired Art
+- 🌍 SDGs: Actively building web apps for UN Sustainable Development Goals (SDG 1–4)
+- 🤝 Internships:
+- **VitalSkill x Techkriti IIT Kanpur** (Data Science & Analytics – Hyperspectral Imaging)
+- **Muskurahat Foundation** (Crowdfunding)
+- **International Journal of AI & Knowledge Engineering (USA)** (Research Intern)
+
+
+---
+
+
+## 🛠️ Skills & Tools
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2c3e50)
+![IoT](https://img.shields.io/badge/-IoT-00b894)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 <!-- ====== End of README: Enhanced (Same Structure) ====== -->
