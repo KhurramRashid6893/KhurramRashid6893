@@ -100,17 +100,17 @@
 
 ## 📚 Research Work
 
-- 📄 *Implementing Machine Learning in Data Classification*  
-- 🌱 *Deep Learning in Monitoring and Managing Industrial Carbon Emissions*  
-- 🛰 *5G-Enabled IoT: Accelerating Connectivity and Smart Applications*  
-- 🧠 *Artificial Intelligence and Emotional Intelligence: The Emergence of Emotion AI in the Digital Era*  
-- 🗞 *Natural Language Processing (NLP) for Combating Misinformation in Digital Media*  
-- 🎨 *Ghibli Art in the Age of AI: A New Paradigm in Animation and Digital Imagery*  
-- ⚡ *Energy Debt of Artificial Intelligence: Measuring and Mitigating the Hidden Carbon Footprint of Large-Scale AI Models*  
-- 🔋 *Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030* 🏆 *(Best Paper Award)*
--     Error-Correcting Codes in 5G6G-Enabled AI Ensuring Reliable and Sustainable Communication for Smart Societies
--     AI for Earth 5.0 Deep Learning Frameworks Shaping Sustainable Societal Futures
--     Sustainability-as-a-Service A New Paradigm for Green Entrepreneurship
+- 📄 *Implementing Machine Learning in Data Classification*
+- 🌱 *Deep Learning in Monitoring and Managing Industrial Carbon Emissions*
+- 🛰 *5G-Enabled IoT: Accelerating Connectivity and Smart Applications*
+- 🧠 *Artificial Intelligence and Emotional Intelligence: The Emergence of Emotion AI in the Digital Era*
+- 🗞 *Natural Language Processing (NLP) for Combating Misinformation in Digital Media*
+- 🎨 *Ghibli Art in the Age of AI: A New Paradigm in Animation and Digital Imagery* 
+- ⚡ *Energy Debt of Artificial Intelligence: Measuring and Mitigating the Hidden Carbon Footprint of Large-Scale AI Models*
+- 🔋 *Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030** 🏆 *Best Paper Award*  
+- 🧩 *Error-Correcting Codes in 5G/6G-Enabled AI: Ensuring Reliable and Sustainable Communication for Smart Societies*  
+- 🌍 *AI for Earth 5.0: Deep Learning Frameworks Shaping Sustainable Societal Futures* 
+- 🌿 *Sustainability-as-a-Service: A New Paradigm for Green Entrepreneurship*
 
 ---
 
