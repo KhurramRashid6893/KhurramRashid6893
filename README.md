@@ -148,6 +148,7 @@
 - IISc Bengaluru (Cybersecurity)  
 - IIT Hyderabad (Web Dev)  
 - IIT Goa (Cancer Biology)
+- IIT Roorkee (AI ML With Data Science)
 
 ---
 
