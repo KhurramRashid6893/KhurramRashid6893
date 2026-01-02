@@ -147,7 +147,7 @@
 - [IIT Madras – Deep Learning & ML](https://drive.google.com/file/d/1eyW3fDdLwjDayZcAaIhlGfTFlkUZhOUw/view?usp=drive_link)
 - [IISc Bengaluru – Cybersecurity Workshop](YOUR_GOOGLE_DRIVE_LINK_HERE)
 - [IIT Hyderabad – Web Development Bootcamp](https://drive.google.com/file/d/1m79FDspsWC9Xnh0iTAslyKrqcOIhn744/view?usp=drive_link)
-- [IIT Goa – Computational Biology & AI](https://drive.google.com/file/d/1iw2q_-w4gjGM4IwBspoXNGlI86BdTkfu/view?usp=drive_link)
+- [IIT Goa – Cancer Biology](https://drive.google.com/file/d/1iw2q_-w4gjGM4IwBspoXNGlI86BdTkfu/view?usp=drive_link)
 - [IIT Roorkee – AI & Data Science](https://drive.google.com/file/d/1sekhYiLMV9GnHOj5d06xBU0pYASVfVhk/view?usp=drive_link)
 - [IIT Kharagpur – Generative AI & ML](https://drive.google.com/file/d/13rapXwHl_gVhGWG1Ux6XLEYdYKXPPCO8/view?usp=drive_link)
 
