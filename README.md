@@ -142,14 +142,14 @@
 
 ## 🏆 Workshops Attended
 
-- [IIT Bombay – AI/ML Workshop](https://drive.google.com/file/d/1Mvkj4gXx47t9mLGgC6BmTQUedI0E6fRO/view?usp=drive_link)
-- [IIT Delhi – Generative AI Workshop](https://drive.google.com/file/d/1Myy5I1hE0CSYeE_Zf7zylSZxaPjSVTIY/view?usp=drive_link)
-- [IIT Madras – Deep Learning & ML](https://drive.google.com/file/d/1eyW3fDdLwjDayZcAaIhlGfTFlkUZhOUw/view?usp=drive_link)
-- [IISc Bengaluru – Cybersecurity Workshop](YOUR_GOOGLE_DRIVE_LINK_HERE)
-- [IIT Hyderabad – Web Development Bootcamp](https://drive.google.com/file/d/1m79FDspsWC9Xnh0iTAslyKrqcOIhn744/view?usp=drive_link)
-- [IIT Goa – Computational Biology & AI](https://drive.google.com/file/d/1iw2q_-w4gjGM4IwBspoXNGlI86BdTkfu/view?usp=drive_link)
-- [IIT Roorkee – AI & Data Science](https://drive.google.com/file/d/1sekhYiLMV9GnHOj5d06xBU0pYASVfVhk/view?usp=drive_link)
-- [IIT Kharagpur – Generative AI & ML](https://drive.google.com/file/d/13rapXwHl_gVhGWG1Ux6XLEYdYKXPPCO8/view?usp=drive_link)
+- <a href="https://drive.google.com/file/d/1Mvkj4gXx47t9mLGgC6BmTQUedI0E6fRO/view?usp=drive_link" target="_blank">IIT Bombay – AI/ML Workshop</a>  
+- <a href="https://drive.google.com/file/d/1Myy5I1hE0CSYeE_Zf7zylSZxaPjSVTIY/view?usp=drive_link" target="_blank">IIT Delhi – Generative AI Workshop</a>  
+- <a href="https://drive.google.com/file/d/1eyW3fDdLwjDayZcAaIhlGfTFlkUZhOUw/view?usp=drive_link" target="_blank">IIT Madras – Deep Learning & ML</a>  
+- <a href="YOUR_GOOGLE_DRIVE_LINK_HERE" target="_blank">IISc Bengaluru – Cybersecurity Workshop</a>  
+- <a href="https://drive.google.com/file/d/1m79FDspsWC9Xnh0iTAslyKrqcOIhn744/view?usp=drive_link" target="_blank">IIT Hyderabad – Web Development Bootcamp</a>  
+- <a href="https://drive.google.com/file/d/1iw2q_-w4gjGM4IwBspoXNGlI86BdTkfu/view?usp=drive_link" target="_blank">IIT Goa – Computational Biology & AI</a>  
+- <a href="https://drive.google.com/file/d/1sekhYiLMV9GnHOj5d06xBU0pYASVfVhk/view?usp=drive_link" target="_blank">IIT Roorkee – AI & Data Science</a>  
+- <a href="https://drive.google.com/file/d/13rapXwHl_gVhGWG1Ux6XLEYdYKXPPCO8/view?usp=drive_link" target="_blank">IIT Kharagpur – Generative AI & ML</a>  
 
 ---
 
