@@ -63,11 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhurramRashid6893&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs"/>
   <br>
   <!-- <img src="https://img.shields.io/github/repos/KhurramRashid6893?color=blue&label=Total%20Repos" alt="Total Repos"/> -->
-
-  <br>
-  <img src="https://raw.githubusercontent.com/KhurramRashid6893/KhurramRashid6893/main/stats/github-metrics.svg" />
-
-
 </p>
 
 ---
