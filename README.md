@@ -64,6 +64,10 @@
   <br>
   <!-- <img src="https://img.shields.io/github/repos/KhurramRashid6893?color=blue&label=Total%20Repos" alt="Total Repos"/> -->
 
+  <br>
+  <img src="https://raw.githubusercontent.com/KhurramRashid6893/KhurramRashid6893/main/stats/github-metrics.svg" />
+
+
 </p>
 
 ---
