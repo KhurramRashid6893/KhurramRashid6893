@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Khurram Rashid</h1>  
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Expert;Google+Student+Ambassador;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center"> 
   <b>
     B.Tech CSE @ Amity University, Mumbai | 
     Founder & CEO @ <a href="https://ibtidaatech.com/" target="_blank">Ibtidaa Tech</a> | 
     Full Stack, AI/ML Expert | Data Analyst | Researcher | Cybersecurity, IoT & SDG-Focused Developer
   </b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </p>
 
 ---
@@ -51,9 +62,19 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+
 ---
 
 ## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhurramRashid6893&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KhurramRashid6893&theme=tokyonight&hide_border=true" alt="streak-stats"/>
@@ -62,7 +83,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhurramRashid6893&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs"/>
   <br>
-  <!-- <img src="https://img.shields.io/github/repos/KhurramRashid6893?color=blue&label=Total%20Repos" alt="Total Repos"/> -->
+  
+  <img src="./stats/github-metrics.svg" alt="Detailed Metrics" />
 </p>
 
 ---
@@ -105,31 +127,16 @@
 - 🛰 *5G-Enabled IoT: Accelerating Connectivity and Smart Applications*
 - 🧠 *Artificial Intelligence and Emotional Intelligence: The Emergence of Emotion AI in the Digital Era*
 - 🗞 *Natural Language Processing (NLP) for Combating Misinformation in Digital Media*
-- 🎨 *Ghibli Art in the Age of AI: A New Paradigm in Animation and Digital Imagery* 
-- ⚡ *Energy Debt of Artificial Intelligence: Measuring and Mitigating the Hidden Carbon Footprint of Large-Scale AI Models*
-- 🔋 *Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030** 🏆 *Best Paper Award*  
-- 🧩 *Error-Correcting Codes in 5G/6G-Enabled AI: Ensuring Reliable and Sustainable Communication for Smart Societies*  
-- 🌍 *AI for Earth 5.0: Deep Learning Frameworks Shaping Sustainable Societal Futures* 
-- 🌿 *Sustainability-as-a-Service: A New Paradigm for Green Entrepreneurship*
+- 🎨 *Ghibli Art in the Age of AI: A New Paradigm in Animation and Digital Imagery* - ⚡ *Energy Debt of Artificial Intelligence: Measuring and Mitigating the Hidden Carbon Footprint of Large-Scale AI Models*
+- 🔋 *Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030** 🏆 *Best Paper Award* - 🧩 *Error-Correcting Codes in 5G/6G-Enabled AI: Ensuring Reliable and Sustainable Communication for Smart Societies* - 🌍 *AI for Earth 5.0: Deep Learning Frameworks Shaping Sustainable Societal Futures* - 🌿 *Sustainability-as-a-Service: A New Paradigm for Green Entrepreneurship*
 
 ---
 
 ## 💡 Hackathons & Ideathons
 
 - 🛰️ **NASA International Space Apps Challenge 2025**
-- 🚀 **Bhartiya Antariksh Hackathon 2025**  
-- 🌌 **Hackcelestial 2.0 (2025)**  
-- 🌐 **Google Developer Groups (On Campus) – Solution Challenge (2025)**  
-- 🕶 **REALMS XR Hackathon**
-- 🔬 **Prakalp**  
-- ⚡ **Technovate**  
-- 🏆 **HackPrix Season 2 (2025)**  
-- 🤖 **AI for Impact APAC Hackathon**  
-- 🪐 **Mission Mars Hackathon**  
-- 🏫 **Discovery School Super League** *(During School Years)*  
-- 💡 **CSI Ideathon**  
-
----
+- 🚀 **Bhartiya Antariksh Hackathon 2025** - 🌌 **Hackcelestial 2.0 (2025)** - 🌐 **Google Developer Groups (On Campus) – Solution Challenge (2025)** - 🕶 **REALMS XR Hackathon**
+- 🔬 **Prakalp** - ⚡ **Technovate** - 🏆 **HackPrix Season 2 (2025)** - 🤖 **AI for Impact APAC Hackathon** - 🪐 **Mission Mars Hackathon** - 🏫 **Discovery School Super League** *(During School Years)* - 💡 **CSI Ideathon** ---
 
 ## 🌱 Learning & Building
 
@@ -145,7 +152,7 @@
 - [IIT Bombay – AI/ML Workshop](https://drive.google.com/file/d/1Mvkj4gXx47t9mLGgC6BmTQUedI0E6fRO/view?usp=drive_link)
 - [IIT Delhi – Generative AI Workshop](https://drive.google.com/file/d/1Myy5I1hE0CSYeE_Zf7zylSZxaPjSVTIY/view?usp=drive_link)
 - [IIT Madras – Deep Learning & ML](https://drive.google.com/file/d/1eyW3fDdLwjDayZcAaIhlGfTFlkUZhOUw/view?usp=drive_link)
-- [IISc Bengaluru – Cybersecurity Workshop](YOUR_GOOGLE_DRIVE_LINK_HERE)
+- [IISc Bengaluru – Cybersecurity Workshop](#) 
 - [IIT Hyderabad – Web Development Bootcamp](https://drive.google.com/file/d/1m79FDspsWC9Xnh0iTAslyKrqcOIhn744/view?usp=drive_link)
 - [IIT Goa – Cancer Biology](https://drive.google.com/file/d/1iw2q_-w4gjGM4IwBspoXNGlI86BdTkfu/view?usp=drive_link)
 - [IIT Roorkee – AI & Data Science](https://drive.google.com/file/d/1sekhYiLMV9GnHOj5d06xBU0pYASVfVhk/view?usp=drive_link)
