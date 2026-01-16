@@ -9,12 +9,6 @@
 
 ---
 
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" />
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&label=Profile%20Views&color=0e75b6&style=flat" alt="KhurramRashid6893" />
-</p>
-
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE student at Amity University, Mumbai (2023–2027)
@@ -171,6 +165,10 @@
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white)](https://twitter.com/khurramrashidd)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/khurramrashidd)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khurramrashid)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&label=Profile%20Views&color=0e75b6&style=flat" alt="KhurramRashid6893" />
+</p>
 
 ---
 
