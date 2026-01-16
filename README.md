@@ -11,6 +11,10 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" />
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&label=Profile%20Views&color=0e75b6&style=flat" alt="KhurramRashid6893" />
+</p>
+
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE student at Amity University, Mumbai (2023–2027)
