@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khurram Rashid</h1>  
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Expert;Google+Student+Ambassador;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center"> 
   <b>
     B.Tech CSE @ Amity University, Mumbai | 
@@ -15,7 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KhurramRashid6893&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
 </p>
 
 ---
@@ -42,6 +37,8 @@
   - **Muskurahat Foundation** (Crowdfunding)
   - **International Journal of AI & Knowledge Engineering (USA)** (Research Intern)
 
+<br clear="all">
+
 ---
 
 ## 🛠️ Skills & Tools
@@ -62,19 +59,9 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
-
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KhurramRashid6893&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KhurramRashid6893&theme=tokyonight&hide_border=true" alt="streak-stats"/>
@@ -82,9 +69,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KhurramRashid6893&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhurramRashid6893&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs"/>
-  <br>
-  
-  <img src="./stats/github-metrics.svg" alt="Detailed Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhurramRashid6893&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
@@ -162,12 +154,24 @@
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khurram-rashid/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:khurramrashid0786@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Portfolio-24292e?logo=github&logoColor=white)](https://github.com/KhurramRashid6893)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white)](https://twitter.com/khurramrashidd)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/khurramrashidd)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khurramrashid)
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/khurram-rashid/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Khurram Rashid" /></a>
+  <a href="mailto:khurramrashid0786@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Khurram Rashid" /></a>
+  <a href="https://github.com/KhurramRashid6893" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Khurram Rashid" /></a>
+  <a href="https://twitter.com/khurramrashidd" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Khurram Rashid" /></a>
+  <a href="https://instagram.com/khurramrashidd" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Khurram Rashid" /></a>
+  <a href="https://medium.com/@khurramrashid" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Khurram Rashid" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/KhurramRashid">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&label=Profile%20Views&color=0e75b6&style=flat" alt="KhurramRashid6893" />
+</p>
 
 ---
 
