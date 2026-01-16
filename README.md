@@ -7,12 +7,6 @@
   </b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhurramRashid6893&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-</p>
-
 ---
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" />
@@ -36,8 +30,6 @@
   - **VitalSkill x Techkriti IIT Kanpur** (Data Science & Analytics – Hyperspectral Imaging)
   - **Muskurahat Foundation** (Crowdfunding)
   - **International Journal of AI & Knowledge Engineering (USA)** (Research Intern)
-
-<br clear="all">
 
 ---
 
@@ -119,16 +111,31 @@
 - 🛰 *5G-Enabled IoT: Accelerating Connectivity and Smart Applications*
 - 🧠 *Artificial Intelligence and Emotional Intelligence: The Emergence of Emotion AI in the Digital Era*
 - 🗞 *Natural Language Processing (NLP) for Combating Misinformation in Digital Media*
-- 🎨 *Ghibli Art in the Age of AI: A New Paradigm in Animation and Digital Imagery* - ⚡ *Energy Debt of Artificial Intelligence: Measuring and Mitigating the Hidden Carbon Footprint of Large-Scale AI Models*
-- 🔋 *Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030** 🏆 *Best Paper Award* - 🧩 *Error-Correcting Codes in 5G/6G-Enabled AI: Ensuring Reliable and Sustainable Communication for Smart Societies* - 🌍 *AI for Earth 5.0: Deep Learning Frameworks Shaping Sustainable Societal Futures* - 🌿 *Sustainability-as-a-Service: A New Paradigm for Green Entrepreneurship*
+- 🎨 *Ghibli Art in the Age of AI: A New Paradigm in Animation and Digital Imagery* 
+- ⚡ *Energy Debt of Artificial Intelligence: Measuring and Mitigating the Hidden Carbon Footprint of Large-Scale AI Models*
+- 🔋 *Energy-Aware Deep Learning: Pathways to Sustainable AGI by 2030** 🏆 *Best Paper Award*  
+- 🧩 *Error-Correcting Codes in 5G/6G-Enabled AI: Ensuring Reliable and Sustainable Communication for Smart Societies*  
+- 🌍 *AI for Earth 5.0: Deep Learning Frameworks Shaping Sustainable Societal Futures* 
+- 🌿 *Sustainability-as-a-Service: A New Paradigm for Green Entrepreneurship*
 
 ---
 
 ## 💡 Hackathons & Ideathons
 
 - 🛰️ **NASA International Space Apps Challenge 2025**
-- 🚀 **Bhartiya Antariksh Hackathon 2025** - 🌌 **Hackcelestial 2.0 (2025)** - 🌐 **Google Developer Groups (On Campus) – Solution Challenge (2025)** - 🕶 **REALMS XR Hackathon**
-- 🔬 **Prakalp** - ⚡ **Technovate** - 🏆 **HackPrix Season 2 (2025)** - 🤖 **AI for Impact APAC Hackathon** - 🪐 **Mission Mars Hackathon** - 🏫 **Discovery School Super League** *(During School Years)* - 💡 **CSI Ideathon** ---
+- 🚀 **Bhartiya Antariksh Hackathon 2025**  
+- 🌌 **Hackcelestial 2.0 (2025)**  
+- 🌐 **Google Developer Groups (On Campus) – Solution Challenge (2025)**  
+- 🕶 **REALMS XR Hackathon**
+- 🔬 **Prakalp**  
+- ⚡ **Technovate**  
+- 🏆 **HackPrix Season 2 (2025)**  
+- 🤖 **AI for Impact APAC Hackathon**  
+- 🪐 **Mission Mars Hackathon**  
+- 🏫 **Discovery School Super League** *(During School Years)*  
+- 💡 **CSI Ideathon**  
+
+---
 
 ## 🌱 Learning & Building
 
@@ -144,7 +151,7 @@
 - [IIT Bombay – AI/ML Workshop](https://drive.google.com/file/d/1Mvkj4gXx47t9mLGgC6BmTQUedI0E6fRO/view?usp=drive_link)
 - [IIT Delhi – Generative AI Workshop](https://drive.google.com/file/d/1Myy5I1hE0CSYeE_Zf7zylSZxaPjSVTIY/view?usp=drive_link)
 - [IIT Madras – Deep Learning & ML](https://drive.google.com/file/d/1eyW3fDdLwjDayZcAaIhlGfTFlkUZhOUw/view?usp=drive_link)
-- [IISc Bengaluru – Cybersecurity Workshop](#) 
+- [IISc Bengaluru – Cybersecurity Workshop](YOUR_GOOGLE_DRIVE_LINK_HERE)
 - [IIT Hyderabad – Web Development Bootcamp](https://drive.google.com/file/d/1m79FDspsWC9Xnh0iTAslyKrqcOIhn744/view?usp=drive_link)
 - [IIT Goa – Cancer Biology](https://drive.google.com/file/d/1iw2q_-w4gjGM4IwBspoXNGlI86BdTkfu/view?usp=drive_link)
 - [IIT Roorkee – AI & Data Science](https://drive.google.com/file/d/1sekhYiLMV9GnHOj5d06xBU0pYASVfVhk/view?usp=drive_link)
@@ -154,24 +161,12 @@
 
 ## 📬 Connect with Me
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/khurram-rashid/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Khurram Rashid" /></a>
-  <a href="mailto:khurramrashid0786@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Khurram Rashid" /></a>
-  <a href="https://github.com/KhurramRashid6893" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Khurram Rashid" /></a>
-  <a href="https://twitter.com/khurramrashidd" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Khurram Rashid" /></a>
-  <a href="https://instagram.com/khurramrashidd" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Khurram Rashid" /></a>
-  <a href="https://medium.com/@khurramrashid" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Khurram Rashid" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/KhurramRashid">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&label=Profile%20Views&color=0e75b6&style=flat" alt="KhurramRashid6893" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khurram-rashid/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:khurramrashid0786@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Portfolio-24292e?logo=github&logoColor=white)](https://github.com/KhurramRashid6893)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white)](https://twitter.com/khurramrashidd)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/khurramrashidd)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khurramrashid)
 
 ---
 
