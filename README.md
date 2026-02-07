@@ -99,7 +99,7 @@
 [![Rock Paper Scissors](https://img.shields.io/badge/-Rock_Paper_Scissors_Game-cyan?style=for-the-badge&logo=render&logoColor=black)](https://rock-paper-scissors-game-webapp.onrender.com)
 [![Todo List App](https://img.shields.io/badge/-TodoMaster-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://two-mern-todo-app.onrender.com/)
 [![InternChance](https://img.shields.io/badge/-InternChance-pink?style=for-the-badge&logo=render&logoColor=white)](https://internchance.onrender.com)
-[![Rose Day](https://img.shields.io/badge/-TodoMaster-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://my-project-448309.web.app/)
+[![Rose Day](https://img.shields.io/badge/-Rose Day (Plant A Virtual Rose)-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://my-project-448309.web.app/)
 
 ---
 
