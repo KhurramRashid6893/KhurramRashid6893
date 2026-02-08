@@ -56,9 +56,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KhurramRashidd&theme=tokyonight&hide_border=true" alt="streak-stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=khurramrashidd&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khurramrashidd&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramrashidd&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramrashidd&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="top-langs"/>
 </p>
 
 <p align="center">
