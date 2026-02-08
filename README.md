@@ -100,7 +100,7 @@
 [![Todo List App](https://img.shields.io/badge/-TodoMaster-darkgreen?style=for-the-badge&logo=render&logoColor=white)](https://two-mern-todo-app.onrender.com/)
 [![InternChance](https://img.shields.io/badge/-InternChance-pink?style=for-the-badge&logo=render&logoColor=white)](https://internchance.onrender.com)
 [![Rose Day](https://img.shields.io/badge/-Rose_Day%3A_Plant_A_Virtual_Rose-green?style=for-the-badge&logo=render&logoColor=white)](https://my-project-448309.web.app/)
-[![Propose Day](https://img.shields.io/badge/-Propose Day-blue?style=for-the-badge&logo=render&logoColor=white)](http://propose-wall-2026-khurram.s3-website.eu-north-1.amazonaws.com)
+[![Propose Day](https://img.shields.io/badge/-Propose_Day-blue?style=for-the-badge&logo=render&logoColor=white)](http://propose-wall-2026-khurram.s3-website.eu-north-1.amazonaws.com)
 
 ---
 
