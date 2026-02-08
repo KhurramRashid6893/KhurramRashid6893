@@ -54,11 +54,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhurramRashid6893&theme=tokyonight&hide_border=true" alt="streak-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhurramRashidd&theme=tokyonight&hide_border=true" alt="streak-stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KhurramRashid6893&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khurramrashidd&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhurramRashid6893&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramrashidd&layout=compact&theme=tokyonight&hide_border=true" alt="top-langs"/>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhurramRashid6893&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khurramrashidd&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
@@ -163,13 +163,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khurramrashidd/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:khurramrashid0786@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Portfolio-24292e?logo=github&logoColor=white)](https://github.com/KhurramRashid6893)
+[![GitHub](https://img.shields.io/badge/-Portfolio-24292e?logo=github&logoColor=white)](https://github.com/khurramrashidd)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?logo=twitter&logoColor=white)](https://twitter.com/khurramrashidd)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/khurramrashidd)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khurramrashid)
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KhurramRashid6893&label=Profile%20Views&color=0e75b6&style=flat" alt="KhurramRashid6893" />
+    <img src="https://komarev.com/ghpvc/?username=khurramrashidd&label=Profile%20Views&color=0e75b6&style=flat" alt="khurramrashidd" />
 </p>
 
 ---
