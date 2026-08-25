@@ -167,6 +167,7 @@
 [![Multi-Agent Cryptographic Key Generator](https://img.shields.io/badge/-Multi--Agent_Cryptographic_Key_Generator-purple?style=for-the-badge&logo=firebase&logoColor=white)](https://cryptominiproject.web.app/)
 [![Sustainable Product Customization App Engine](https://img.shields.io/badge/-Sustainable_Product_Customization_App_Engine-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://sustainable-customization-app-engine.streamlit.app/)
 [![Hyperspectral Image Analysis Dashboard](https://img.shields.io/badge/-Hyperspectral_Image_Analysis_Dashboard-orange?style=for-the-badge&logo=streamlit&logoColor=white)](https://hyperspectral-image-analysis-dashboard.streamlit.app/)
+[![Nexus BD](https://img.shields.io/badge/-Nexus%20BD-blue?style=for-the-badge&logo=render&logoColor=white)](https://nexus-bd.onrender.com/)
 
 ---
 
